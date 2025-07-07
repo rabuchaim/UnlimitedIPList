@@ -256,11 +256,11 @@ Check the tests directory for more performance benchmarks.
 
 Below are some performance test results with 200.000 random IPv4/IPv6 addressess and 100.000 IPv4/IPv6 networks:
 
-<img src="https://raw.githubusercontent.com/rabuchaim/UnlimitedIPList/refs/heads/main/tests/test_performance_01.png" alt="Test Performance" />
+<img src="https://raw.githubusercontent.com/rabuchaim/UnlimitedIPList/refs/heads/main/test_performance_01.png" />
 
 (... 200.000 random IPv4/IPv6 addressess ...)
 
-<img src="https://raw.githubusercontent.com/rabuchaim/UnlimitedIPList/refs/heads/main/tests/test_performance_02.png" alt="Test Performance" />
+<img src="https://raw.githubusercontent.com/rabuchaim/UnlimitedIPList/refs/heads/main/test_performance_02.png" />
 
 ---
 
